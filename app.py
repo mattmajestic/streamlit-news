@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Set page config with a favicon and more emojis
-st.set_page_config(page_title="📰 Streamlit New", page_icon="🌍")
+st.set_page_config(page_title="Streamlit News", page_icon="📰")
 
 # Title and description with emojis
 st.title("📰 Streamlit News")
